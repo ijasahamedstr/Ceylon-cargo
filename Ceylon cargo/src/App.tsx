@@ -1,8 +1,8 @@
 function App() {
 
   return (
-    <>  
-    <h1>Welcome to Ceylon Cargo</h1>    
+    <>
+     <h1>Hello Ceylon Cargo!</h1>
     </>
   )
 }
