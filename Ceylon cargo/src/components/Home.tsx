@@ -1,3 +1,4 @@
+import OurBranches from "./OurBranches";
 import HeroSlider from "./Slider";
 import SystemWorkFlow from "./SystemWorkFlow";
 
@@ -6,6 +7,7 @@ function Home() {
     <>
     <HeroSlider/>
     <SystemWorkFlow/>
+    <OurBranches/>
     </>
   );
 }
